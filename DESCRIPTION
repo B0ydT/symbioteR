@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "boyd.tarlinton@hdr.qut.edu.au",
            comment = c(ORCID = "0000-0002-4146-7083"))
-Imports: phyloseq, tidyr
+Imports: phyloseq, tidyr, qiime2R, magrittr, stringr, qpcR, utils
 Description: What the package does (one paragraph).
 License: file LICENSE
 Encoding: UTF-8
