@@ -8,7 +8,7 @@ Authors@R:
            email = "boyd.tarlinton@hdr.qut.edu.au",
            comment = c(ORCID = "0000-0002-4146-7083"))
 Description: What the package does (one paragraph).
-License: What license it uses
+License: file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
