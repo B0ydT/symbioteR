@@ -1,5 +1,5 @@
 Package: symbioteR
-Title: A personal R package to support the analysis of microbiome data.
+Title: A personal R package to support the analysis of microbiome data
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Boyd",
