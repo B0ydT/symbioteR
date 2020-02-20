@@ -2,7 +2,9 @@
 
 export(makeObservationsBinary)
 export(makeObservationsRelative)
+export(prevalenceFilter)
 export(readQIIMEFolder)
+export(removeNonbacterial)
 import(phyloseq)
 import(qpcR)
 importFrom(magrittr,"%>%")
