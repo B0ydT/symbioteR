@@ -1,8 +1,11 @@
+#' @import phyloseq
+NULL
 #' Convert an OTU Count Table to Presence/Absence
 #'
 #' @param physeq A phyloseq object.
 #'
 #' @return A phyloseq object.
+#' @importFrom tidyr replace_na
 #' @export
 #'
 makeObservationsBinary <- function(physeq) {

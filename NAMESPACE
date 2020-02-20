@@ -2,3 +2,5 @@
 
 export(makeObservationsBinary)
 export(makeObservationsRelative)
+import(phyloseq)
+importFrom(tidyr,replace_na)
