@@ -9,7 +9,7 @@ Authors@R:
            comment = c(ORCID = "0000-0002-4146-7083"))
 Imports: phyloseq, tidyr, qiime2R, magrittr, stringr, qpcR, utils
 Description: What the package does (one paragraph).
-License: MIT
+License: Apache License (>= 2)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
