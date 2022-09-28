@@ -10,7 +10,7 @@ Authors@R:
 Imports: phyloseq, tidyr, qiime2R, magrittr, stringr, qpcR, utils
 Remotes: jbisanz/qiime2R
 Description: What the package does (one paragraph).
-License: Apache License (>= 2)
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
