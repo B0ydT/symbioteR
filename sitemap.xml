@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/404.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/index.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/reference/makeObservationsBinary.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/reference/makeObservationsRelative.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/reference/prevalenceFilter.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/reference/readQIIMEFolder.html</loc>
+  </url>
+  <url>
+    <loc>https://b0ydt.github.io/symbioteR/reference/removeNonbacterial.html</loc>
+  </url>
+</urlset>
