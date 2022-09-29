@@ -12,7 +12,8 @@ Remotes: jbisanz/qiime2R
 Description: A set of simple but useful functions that I use frequently when 
      working with phyloseq objects.
 License: MIT + file LICENSE
-URL: https://github.com/B0ydT/symbioteR
+URL: https://github.com/B0ydT/symbioteR,
+    https://b0ydt.github.io/symbioteR/
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
