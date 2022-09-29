@@ -1,4 +1,4 @@
-# symbioteR: An R package to speed up the analysis of microbiome data <img src="man/figures/logo.png" align="right" width="100" />
+# symbioteR <img src="man/figures/logo.png" align="right" width="100" />
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/B0ydT/symbioteR/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/B0ydT/symbioteR/actions/workflows/R-CMD-check.yaml)

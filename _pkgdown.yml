@@ -2,4 +2,6 @@ url: https://b0ydt.github.io/symbioteR/
 template:
   bootstrap: 5
   bootswatch: lux
+  bslib:
+    pkgdown-nav-height: 100px
 
