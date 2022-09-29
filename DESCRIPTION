@@ -1,5 +1,5 @@
 Package: symbioteR
-Title: A personal R package to support the analysis of microbiome data
+Title: An R package to speed up the analysis of microbiome data
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Boyd",
@@ -9,9 +9,12 @@ Authors@R:
            comment = c(ORCID = "0000-0002-4146-7083"))
 Imports: phyloseq, tidyr, qiime2R, magrittr, stringr, qpcR, utils
 Remotes: jbisanz/qiime2R
-Description: What the package does (one paragraph).
+Description: A set of simple but useful functions that I use frequently when 
+     working with phyloseq objects.
 License: MIT + file LICENSE
+URL: https://github.com/B0ydT/symbioteR
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.0.2
+Date: 2022-09-29
